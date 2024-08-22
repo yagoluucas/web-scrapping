@@ -1,0 +1,513 @@
+﻿Nome;Descrição,Custo
+Baze Malbus, Temple Guardian;Grit (This unit gets +1/+0 for each damage on him.)While you have the initiative, this unit gains Sentinel. (Units in this arena can't attack your non-Sentinel units or your base.);4
+Admiral Akbar, Brilliant Strategist;Restore 1 (When this unit attacks, heal 1 damage from your base.)When Played: You may deal damage to a unit equal to the number of units your control in its arena.;3
+Ardent Sympathizer;When you have the initiative, this unit gains +2/+0.;3
+Death Trooper;When Played: Deal 2 damage to a friendly ground unit and 2 damage to an enemy ground unit.;3
+Admiral Ozzel, Overconfident;Action [[tap]]: Play an Imperial unit from your hand (paying its cost). It enters play ready. Each opponent may ready a unit.;2
+Ephant Mon, Head of Security;On Attack: Choose an enemy non-leader unit that attacked your base this phase. A friendly unit in the same arena captures that unit. (Put the captured unit facedown under the friendly unit until the friendly unit leaves play.);5
+Finn, This is a Rescue;On Attack: You may defeat a friendly upgrade on a unit. If you do, give a Shield token to that unit. Hero Ability: Action [[tap]]: Defeat a friendly upgrade on a unit. If you do, give a Shield token to that unit. Epic Action: If you control 5 or more resources, deploy this leader.;5
+Director Krennic, Aspiring to Authority;Restore 2 (When this unit attacks, heal 2 damage from your base.) Each friendly damaged unit gets +1/+0 Hero Ability: Each friendly damaged unit gets +1/+0. Epic Action: If you control 5 or more resources, deploy this leader.;5
+Millennium Falcon Piece of Junk;This unit enters play ready.When you ready cards during your regroup phase: Either pay [1R] or return this unit to her owner's hand.;3
+Rose Tico, Dedicated to the Cause;Shielded (When you play this unit, give a Shield token to her.)On Attack: You may defeat a Shield token on a friendly unit. If you do, give 2 Experience tokens to that unit.;4
+Timely Intervention;Play a unit from your hand. Give it Ambush for this phase. (When you play it, it may ready and attack an enemy unit.)Smuggle [2 [command]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);1
+This Is The Way;Search the top 8 cards of your deck for up to 2 Mandalorian and/or upgrade cards, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.);2
+TIE/ln Fighter;Sem descrição;1
+Clone Trooper;Sem descrição;0
+Final Showdown;Ready each unit you control. At the start of the regroup phase, you lose the game.;6
+System Patrol Craft;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);4
+Krayt Dragon;OverwhelmWhen an opponent plays a card: You may deal damage equal to that card's cost to their base or a ground unit they control.;9
+Weequay Pirate Gang;Ambush (When you play this unit, it may ready and attack an enemy unit.)Smuggle [5, [command]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);4
+Disabling Fang Fighter;When Played: You may defeat an upgrade.;3
+First Legion Snowtrooper;While attacking a damaged unit, this unit gets +2/+0 and gains Overwhelm (Deal excess damage to the opponen's base.);2
+Echo Base Defender;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);3
+Rey, More Than A Scavenger;Restore 3 (When this unit attacks, heal 3 damage from your base.)On Attack: You may give an Experience token to a unit with 2 or less power. Hero Ability: Action [1, [tap]]: Give an Experience token to a unit with 2 or less power. Epic Action: If you control 6 or more resources, deploy this leader.;6
+Rogue Operative;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)Raid 2 (This unit gets +2/+0 while attacking.);3
+Pirate Battle Tank;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)Smuggle [7, [command], [villainy]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);6
+Iden Versio, Inferno Squad Commander;Shielded (When you deploy this leader, give her a Shield token.)When an enemy unit is defeated: Heal 1 damage from your base. Hero Ability: Action [tap]: If an enemy unit was defeated this phase, heal 1 damage from your base. Epic Action: If you control 6 or more resources, deploy this leader.;6
+Rey, Keeping the Past;While playing this unit, ignore her [heroism] aspect penalty if you control Kylo Ren.On Attack: You may heal 2 damage from a unit. If it's a non-[heroism] unit, give a Shield token to it.;5
+Moment of Glory;Give a unit +4/+4 for this phase.;3
+Bounty Guild Initiate;When Played: If you control another Bounty Hunter unit, you may deal 2 damage to another ground unit.;1
+Admiral Motti;When Defeated: You may ready a [villainy] unit.;2
+Chirrut Îmwe, One with the Force;Action [[tap]]: Give a unit +0/+2 for this phase. Hero Ability: During the action phase, this unit isn't defeated by having no remaining HP. (During the regroup phase, if he has no remaining HP, defeat him.) Epic Action: If you control 6 or more resources, deploy this leader.;5
+Criminal Muscle;When Played: You may return a non-unique upgrade to its owner's hand.;1
+Guild Target;Attached unit gains: "Bounty - Deal 2 damage to a base. If this unit is unique, deal 3 damage instead." (When this unit is defeated or captured, its opponent collects its bounty.);0
+Rugged Survivors;Grit (This unit gets +1/+0 for each damage on it.)On Attack: If you control a leader unit, you may draw a card.;5
+Lieutenant Childsen;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)When Played: Reveal up to 4 [vigilance] cards from your hand. For each card revealed this way, give an Experience token to this unit.;4
+Commission;Search the top 10 cards of your deck for a Bounty Hunter, Item, or Transport card, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.)Smuggle [3 [command]];1
+Star Wing Scout;When Defeated: If you have the initiative, draw 2 cards.;3
+Hondo Ohnaka, That's Good Business;Raid 1 (This unit gets +1/+0 while attaking.)When you play a card using Smuggle: You may give an Experience token to a unit. Hero Ability: When you play a card using Smuggle: You may exhaust this leader. If you do, give an Experience token to a unit. Epic Action: If you control 6 or more resources, deploy this leader.;6
+Fifth Brother, Fear Hunter;This unit gains Raid 1 for each damage on him. (He gets +1/+0 while attacking for each damage on him.)On Attack: You may deal 1 damage to this unit and 1 damage to another ground unit.;3
+Bright Hope, The Last Transport;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)When Played: You may return a friendly non-leader ground unit to its owner's hand. If you do, draw a card.;4
+Maul, Shadow Collective Visionary;Ambush, OverwhelmOn Attack: You may choose another friendly Underworld unit. If you do, all combat damage that would be dealt to this unit during this attack is dealt to the chosen unit instead.;7
+Auzituck Liberator Gunship;Ambush (After you play this unit, it may ready and attack an enemy unit.);4
+Chewbacca, Walking Carpet;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)Grit (This unit gets +1/+0 for each damage on it.) Hero Ability: Action[[tap]]: Play a unit that costs 3 or less from your hand (paying its cost). It gains Sentinel for this phase. Epic Action: If you control 7 or more resources, deploy this leader.;7
+Emperor Palpatine, Galactic Ruler;When Deployed: Take control of a damaged non-leader unit.On Attack: You may defeat another friendly unit. If you do, deal 1 damage to a unit and draw a card. Hero Ability: Action [1, [tap] , defeat a friendly unit]: Deal 1 damage to a unit and draw a card. Epic Action: If you control 8 or more resources, deploy this leader.;8
+The Armorer, Survival is Strength;When Played: Give a Shield token to each of up to 3 Mandalorian units.;5
+Lady Proxima, White Worm Matriarch;When you play another Underworld card: You may deal 1 damage to a base.;1
+Snowtrooper Lieutenant;When Played: You may attack with a unit. If it's an Imperial unit, it gets +2/+0 for this attack.;2
+Hotshot DL-44 Blaster;Attach to a non-Vehicle unit.Smuggle [3 [cunning]]When played using Smuggle: Attack with attached unit.;1
+Take Captive;A friendly unit captures an enemy non-leader unit in the same arena. (Put the captured card facedown under that unit until that unit leaves play.);3
+Cloud-Rider;Ambush (After you play this unit, it may ready and attack an enemy unit.);2
+Luke Skywalker, Faithful Friend;On Attack: You may give another unit a shield token Hero Ability: Action[[1R], [tap]]: Give a Shield token to a [heroism] unit you played this phase. Epic Action: If you control 6 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.);6
+Cargo Juggernaut;Shielded (When you play this unit, give a Shield token to it.)When Played: If you control another [vigilance] unit, heal 4 damage from your base.;6
+Guavian Antagonizer;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)Bounty - Draw a card. (When this unit is defeated or captured, your opponent collects its bounty.);1
+Wampa;Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.);4
+Gideon Hask, Ruthless Loyalist;When an enemy unit is defeated: Give an Experience token to a friendly unit.;5
+Wedge Antilles, Star of the Rebellion;Each friendly Vehicle unit gets +1/+1 and gains Ambush. (After you play that unit, it may ready and attack an enemy unit.);5
+Avenger, Hunting Star Destroyer;When Played/On Attack: An opponent chooses a non-leader unit they control. Defeat that unit.;9
+Grand Moff Tarkin, Oversector Governor;On Attack: You may give an Experience token to another IMPERIAL unit. Hero Ability: Action [[1R], [tap]]: Give an Experience token to an IMPERIAL unit. Epic Action: If you control 5 or more resources, deploy this leader.;5
+Moff Gideon, Formidable Commander;Action [tap]: Attack with a unit that costs 3 or less. If it's attacking a unit, it gets +1/+0 for this attack. Hero Ability: Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)Each friendly unit that costs 3 or less gets +1/+0 and gains Overwhelm while attacking an enemy unit. Epic Action: If you control 5 or more resources, deploy this leader.;5
+Finalizer, Might of the First Order;OverwhelmWhen Played: Choose any number of friendly units. Each of those units captures an enemy non-leader unit in the same arena.;11
+Imperial Interceptor;When Played: You may deal 3 damage to a space unit.;4
+Chewbacca, Loyal Companion;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)When this unit is attacked: Ready him.;5
+Mercenary Gunship;Action [4]: Take control of this unit. Any player may use this ability.;2
+Gentle Giant;Grit (This unit gets +1/+0 for each damage on it.)On Attack: You may heal damage from another unit equal to the damage on this unit.;6
+Viper Probe Droid;When Played: Look at an opponent's hand.;2
+Grand Inquisitor, Hunting the Jedi;On Attack: You may deal 1 damage to another friendly unit with 3 or less power and ready it. Hero Ability: Action [[tap]]: Deal 2 damage to a friendly unit with 3 or less power and ready it. Epic Action: If you control 6 or more resources, deploy this leader.;6
+Choose Sides;Choose a friendly non-leader unit and an enemy non-leader unit. Exchange control of those units.;7
+Armed to the Teeth;Attached unit gains: "On Attack: Give another friendly unit +2/+0 for this phase."Smuggle [4, [aggression]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);2
+Fugitive Wookiee;Bounty - Exhaust a unit. (When this unit is defeated or captured, your opponent collects the bounty.);2
+Resilient;Sem descrição;1
+Trandoshan Hunters;Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)When Played: If an enemy unit has a Bounty, give an Experience token to this unit.;5
+Academy Defense Walker;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)When Played: Give an Experience token to each friendly damaged unit.;6
+Occupier Siege Tank;Grit (This unit gets +1/+0 for each damage on it);5
+Rogue Squadron Skirmisher;AmbushWhen Played: Return a unit that costs 2 or less from your discard pile to your hand.;6
+Cassian Andor, Dedicated to the Rebellion;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)When you deal damage to an enemy base: You may draw a card. Use this ability only once each round. Hero Ability: Action [[Cost1], [tap]]: If you've dealt 3 or more damage to an enemy base this phase, draw a card. Epic Action: If you control 6 or more resources, deploy this leader.;6
+Entrenched;Attached unit can't attack bases.;2
+Power of the Dark Side;An opponent chooses a unit they control. Defeat that unit.;3
+Hera Syndulla, Spectre Two;Ignore the aspect penalty on Spectre cards you play.On Attack: You may give an Experience token to another unique unit. Hero Ability: Ignore the aspect penalty on Spectre cards you play. Epic Action: If you control 6 or more resources, deploy this leader.;6
+Palpatine's Return;Play a unit from your discard pile. It costs 6 less. If it's a Force unit, it costs 8 less instead.;6
+Boba Fett, Daimyo;Each other friendly unit that has 1 or more Keywords gets +1/+0 Hero Ability: When you play a unit that has 1 or more keywords: You may exhaust this leader. If you do, give a friendly unit +1/+0 for this phase. Epic Action: If you control 6 or more resources, deploy this leader.;6
+Mandalorian Warrior;When Played: You may give an Experience token to another Mandalorian unit.;3
+IG-88 Ruthless Bounty Hunter;Each other friendly unit gains Raid 1. (They get +1/+0 while attacking.) Hero Ability: Action [[tap]] : Attack with a unit. If you control more units than the defending player, the attacker gets +1/+0 for this attack. Epic Action: If you control 5 or more resources, deploy this leader.;5
+Cell Block Guard;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);3
+Seventh Sister, Implacable Inquisitor;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)When this unit deals combat damage to an opponent's base: You may deal 3 damage to a ground unit that opponent controls.;5
+Lando Calrissian, Responsible Businessman;Saboteur (When this unit attacks, ignore Sentinel and defeat the defenders' Shields.)When played: Return up to 2 friendly resources to their owners' hands.;6
+The Mandalorian, Where I go, He Goes;SentinelWhen Played: You may heal all damage from a unit that costs 2 or less and give 2 Shield tokens to it.;6
+Dengar, The Demolisher;When you play an upgrade on a unit: You may deal 1 damage to that unit.;1
+Death Mark;Attached unit gains: "Bounty - Draw 2 cards." (When this unit is defeated or captured, its opponent collects its bounty.);2
+Sabine Wren, Galvanized Revolutionary;On Attack: Deal 1 damage to each enemy base. Hero Ability: Action [tap]: Deal 1 damage to each base. Epic Action: If you control 4 or more resources, deploy this leader.;4
+Devotion;Attached unit gains Restore 2. (When this unit attacks, heal 2 damage from its controller's base.);2
+Moment of Peace;Give a Shield token to a unit.;1
+U-Wing Reinforcement;Search the top 10 cards of your deck for up to 3 units with combined cost 7 or less and play each of them for free. (Put the other cards on the bottom of your deck in a random order.);7
+Infiltrator's Skill;Attached unit gains Saboteur. (When this unit attacks, ignore Sentinel and defeat the defender's Shields.);1
+Vader's Lightsaber;Attach to a non-Vehicle unit.When Played: If attached unit is Darth Vader, you may deal 4 damage to a ground unit.;2
+Frontier Trader;When Played: You may return a resource you control to its owner's hand. If you do, you may put the top card of your deck into play as a resource.;3
+Heroic Renegade;Grit (This unit gets +1/+0 for each damage on it.);2
+Home One, Alliance Flagship;Restore 2Each other friendly unit gains Restore 1.When Played: Play a [heroism] unit from your discard pile. It costs [3R] less.;8
+Count Dooku, Darth Tyrannus;Shielded (When you play this unit, give him a Shield token.)When Played: You may defeat a unit with 4 or less remaining HP.;7
+Search Your Feelings;Search your deck for a card and draw it. (Then, shuffle your deck.);4
+Street Gang Recruiter;When Played: You may return an Underworld card from your discard pile to your hand.;5
+Han Solo, Audacious Smuggler;On Attack: Put the top card of your deck into play as a resource and ready it. At the start of the next action phase, defeat a resource you control. Hero Ability: Action [[tap]]: Put a card from your hand into play as a resource and ready it. At the start of the next action phase, defeat a resource you control. Epic Action: If you control 6 or more resources, deploy this leader.;6
+General Veers, Blizzard Force Commander;Other friendly Imperial units get +1/+1.;3
+Clone Deserter;Restore 1 (When this unit attacks, heal 1 damage from your base.)Bounty - Draw a card. (When this unit is defeated or captures, your opponent collects its bounty.);1
+Han Solo;Ambush (After you play this unit, he may ready and attack an enemy unit.)While attacking, this unit deals combat damage before the defender.;7
+Leia Organa, Alliance General;Raid 1 (This unit gets +1/+0 while attacking.)When this unit completes an attack: You may attack with another REBEL unit. Hero Ability: Action[[tap]]: Attack with a REBEL unit. Then, you may attack with another REBEL unit. Epic Action: If you control 5 or more resources, deploy this leader.;5
+Ruthless Raider;When Played/When Defeated: Deal 2 damage to an enemy base and 2 damage to an enemy unit.;6
+Chewbacca, Pykesbane;GritWhen Played: You may defeat a unit with 5 or less remaining HP.Smuggle [9, [aggression], [heroism]];8
+Kylo's TIE Silencer, Ruthlessly Efficient;Action: If this unit was discarded from your hand or deck this phase, play it from your discard pile (paying its cost).;2
+Hunter, Outcast Sergeant;Action [1, [tap]]: Reveal a resource you control, if it shares a name with a friendly unique unit, return the resource to its owner's hand and put the top card of your deck into play as a resource. Hero Ability: OverwhelmOn Attack: You may reveal a resource you control. If it shares a name with a friendly unique unit, return the resource to its owner's hand and put the top card of your deck into play as a resource. Epic Action: If you control 7 or more resources, deploy this leader.;7
+Boba Fett, Collecting the bounty;When this unit completes an attack: If an enemy unit let play this phase, ready up to 2 resources. Hero Ability: When an enemy unit leaves play: You may exhaust this leader. If you do, ready a resource. Epic Action: If you control 5 or more resources, deploy this leader.;5
+Vambrace Flamethrower;Attach to a non-Vehicle unit.Attached unit gains: "On Attack: You may deal 3 damage divided as you choose among enemy ground units.";3
+Electrostaff;Attach to a non-Vehicle unit.While attached unit is defending, the attacker gets -1/-0.;2
+Repair;Heal 3 damage from a unit or base.;1
+General Krell, Heartless Tactician;Each other friendly unit gains: "When Defeated: You may draw a card.";5
+Force Throw;Choose a player. That player discards a card from their hand. Then, if you control a Force unit, you may deal damage to a unit equal to the cost of the discarded card.;1
+Precision Fire;Attack with a unit. It gains Saboteur for this attack. If it's a trooper, it also gets +2/+0 for this attack. (Ignore Sentinel and defeat the defender's Shields);1
+Smuggler's Starfighter;When Played: If you control another Underworld unit, give an enemy unit -3/-0 for this phase. Smuggle [4, [cunning]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);3
+AT-AT Suppressor;When Played: Exhaust all ground units.;8
+Valiant Assault Ship;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)On Attack: If the defending player controls more resources than you, this unit gets +2/+0 for this attack.;4
+Fallen Lightsaber;Attach to a non-Vehicle unit.If attached unit is a Force unit, it gains: "On Attack: Deal 1 damage to each ground unit the defending player controls.";3
+Rich Reward;Attached unit gains: “Bounty - Give an Experience token to each of up to 2 units.” (When this unit is defeated or captured, its opponent collects its bounty.);1
+Maz Kanata, Pirate Queen;When you play another unit: Give an Experience token to this unit.;1
+Bamboozle;You may discard a [cunning] card from your hand instead of paying this event's cost.Exhaust a unit and return each upgrade on it to its owner's hand.;2
+Rebel Assault;Attack with a Rebel unit. It gets +1/+0 for this attack.Then, attack with another Rebel unit. It gets +1/+0 for this attack.;1
+Bossk, Hunting His Prey;When you collect a Bounty: You may collect that Bounty again. Use this ability only once each round. Hero Ability: Action [[tap]]: Deal 1 damage to a unit with a Bounty. You may give it +1/+0 for this phase. Epic Action: If you control 5 or more resources, deploy this leader.;5
+Death Watch Loyalist;Grit (This unit gets +1/+0 for each damage on it.)Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.);3
+Jyn Erso, Resisting Oppression;When a friendly unit is attacking, the defender gets -1/-0. Hero Ability: Action [tap]: Attack with a unit. The defender gets -1/-0 for this attack. Epic Action: If you control 6 or more resources, deploy this leader.;6
+TIE Advanced;When Played: Give 2 Experience tokens to another friendly Imperial unit.;4
+Emperor Palpatine;Overwhelm (When attack an enemy unit, deal excess damage to the opponent's base.)When Played: Deal 6 damage divided as your choose among enemy units.;8
+Attack Pattern Delta;Give a friendly unit +3/+3 for this phase.Give another friendly unit +2/+2 for this phase.Give a third friendly unit +1/+1 for this phase.;3
+Darth Vader, Dark Lord of the Sith;On Attack: You may deal 2 damage to a unit. Hero Ability: Action[[1R], [tap]]: If you played a [villainy] card this phase, deal 1 damage to a unit and 1 damage to a base. Epic Action: If you control 7 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.);7
+Second Chance;Attach to a non-leader unit.Attached unit gains: "When Defeated: For this phase, this unit's owner may play it from their discard pile for free.";4
+Superlaser Blast;Defeat all units.;8
+Grand Admiral Thrawn, Patient and Insightful;When the action phase starts: Look at the top card of each player's deck.On Attack: Reveal the top card of any player's deck. Exhaust a unit that costs the same as or less than the revealed card. Hero Ability: When the action phase starts: Look at the top card of each player's deck.Action [[1R], [tap]]: Reveal the top card of any player's deck. Exhaust a unit that costs the same as or less than the revealed card. Epic Action: If you control 6 or more resources, deploy this leader.;6
+Superlaser Technician;When Defeated: You may put this unit into play as a resource and ready it.;3
+Spark of Rebellion;Look at an opponent's hand and discard a card from it.;2
+It Binds All Things;Heal up to 3 damage from a unit. If you control a FORCE unit, you may deal that much damage to another unit.;2
+Desperate Attack;Attack with a damaged unit. It gets +2/+0 for this attack.;1
+Bib Fortuna, Jabba's Majordomo;Shielded (When you play this unit, give him a Shield token.)Action[[tap]]: Play an event from your hand. It costs 1 less.;2
+Keep Fighting;Ready a unit with 3 or less power.;2
+Desperado Freighter;Sem descrição;5
+Freetown Backup;On Attack: Give another friendly unit +2/+2 for this phase.Smuggle [4, [command], [heroism]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);2
+Chain Code Collector;Ambush (After you play this unit, it may ready and attack an enemy unit.)On Attack: If the defender has a Bounty, it gets -4/-0 for this attack.;4
+Kanan Jarrus, Revealed Jedi;On Attack: You may discard 1 card from the defending player's deck for each friendly Spectre unit. Heal 1 damage from your base for each different aspect among the discarded cards.;4
+Force Lightning;Choose a unit. It loses all abilities for this phase. Then, if you control a Force unit, pay any number of resources and deal 2 damage to the chosen unit for each resource paid this way.;1
+Daring Raid;Deal 2 damage to a unit or base.;1
+Bodhi Rook, Imperial Defector;When Played: Look at an opponent's hand and discard a non-unit card from it.;3
+Agent Kallus, Seeking the Rebels;Ambush (After you play this unit, he may ready and attack an enemy unit.)When another unique unit is defeated: You may draw a card. Use this ability only once each round.;5
+Command;Choose 2, in any order:- Give 2 Experience tokens to a unit.- A friendly unit deals damage equal to its power to a non-unique enemy unit.- Put this event into play as a resource.- Return a unit from your discard pile to your hand.;4
+Kylo Ren, Rash and Deadly;This unit gets -1/-0 for each card in your hand. Hero Ability: Action [[tap], discard a card from your hand]: Give a unit 2/+0 for this phase. Epic Action: If you control 4 or more resources, deploy this leader.;4
+AT-ST;Overwhelm (When attack an enemy unit, deal excess damage to the opponent's base.);6
+Security Complex;Epic Action: Give a Shield token to a non-leader unit.;
+Dagobah Swamp;Sem descrição;
+Midnight Repairs;Heal up to 8 total damage from any number of units.;2
+Restored ARC-170;Restore 1 (When this unit attacks, heal 1 damage from your base.);2
+Punishing One, Dengar's Jumpmaster;When an upgraded enemy unit is defeated: You may ready this unit. Use this ability only once each round.;3
+Cartel Spacer;When Played: If you control another [cunning] unit, exhaust an enemy unit that costs 4 or less.;2
+Administrator's Tower;Sem descrição;
+Pirated Starfighter;Raid 1When Played: Return a friendly non-leader unit to its owner's hand.;2
+Fleet Lieutenant;When Played: You may attack with a unit. If it's a Rebel unit, it gets +2/+0 for this attack.;3
+Vigilant Honor Guards;While this unit is undamaged, it gains Sentinel. (Units in this arena can't attack your non-Sentinel units or your base.);5
+Power Failure;Defeat any number of upgrades on a unit.;2
+Make An Opening;Give a unit -2/-2 for this phase. Heal 2 damage from your base.;3
+Grand Moff Tarkin;When Played: Search the top 5 cards of your deck for up to 2 Imperial cards, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.);4
+Tobias Beckett, I Trust No One;When you play a non-unit card: You may exhaust a unit that costs the same as or less than the card you played. Use this ability only once each round.Smuggle[5, [vigilance]];4
+Detention Block Rescue;Deal 3 damage to a unit. If that unit is guarding any captured cards, deal 6 damage instead.;3
+Force Choke;If you control a Force unit, this event costs 1 less to play.Deal 5 damage to a non-Vehicle unit. That unit's controller draws a card.;2
+Wanted Insurgents;Bounty - Deal 2 damage to a unit. (When this unit is defeated or captured, your opponent collects the bounty.;3
+Sundari Peacekeeper;Raid 2 (This unit gets +2/+0 while attacking.)Restore 2 (When this unit attacks, heal 2 damage from your base.);3
+Arquitens Assault Cruiser;AmbushWhen this unit attacks and defeats a non-leader unit: Put the defeated unit into play as a resource under your control.;8
+Vanguard Infantry;When Defeated: You may give an Experience token to a unit.;1
+Coronet City;Sem descrição;
+Black One, Scourge of Starkiller Base;When Played/When Defeated: You may discard your hand. If you do, draw 3 cards.;6
+Jango Fett, Renowned Bounty Hunter;While attacking a unit with a Bounty, this unit gets +3/+0 and gains Overwhelm.When this unit attacks and defeats a unit: Draw a card.;4
+Bo-Katan Kryze, Princess in Exile;On Attack: You may deal 1 damage to a unit. If you attacked with another Mandalorian unit this phase, you may deal 1 damage to a unit. (The same unit or a different unit.) Hero Ability: Action [tap]: If you attacked with a Mandalorian unit this phase, deal 1 damage to a unit. Epic Action: If you control 6 or more resources, deploy this leader.;6
+I am your Father;Deal 7 damage to an enemy unit unless its controller says "no". If they do, draw 3 cards.;3
+Cantina Bouncer;When Played: You may return a non-leader unit to its owner's hand.;5
+Steadfast Battalion;Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)On Attack: If you control a leader unit, give a friendly unit +2/+2 for this phase.;5
+Capital City;Sem descrição;
+Energy Conversion Lab;Epic Action: Play a unit that costs 6 or less from your hand. Give it Ambush for this phase.;
+Yoda, Old Master;Restore 2 (When this unit attacks, heal 2 damage from your base.)When Defeated: Choose any number of players. They each draw a card.;3
+Moisture Farmer;Restore 2 (When this unit attacks, heal 2 damage from your base.);1
+Mission Briefing;Choose a player. They draw 2 cards.;3
+Boba Fett, Disintegrator;On Attack: If this unit is attacking an exhausted unit that didn't enter play this round, deal 3 damage to the defender.;3
+Obi-Wan Kenobi;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)When Defeated: Give 2 Experience tokens to another friendly unit. If it's a Force unit, draw a card.;6
+Wing Leader;When Played: Give 2 Experience tokens to another friendly Rebel unit.;3
+Swoop Racer;Sem descrição;3
+Colonel Yularen, ISB Director;When you play a [command] unit (including this one): Heal 1 damage from your base.;2
+Pillage;Choose a player. They discard 2 cards from their hand.;4
+SpecForce Soldier;When Played: A unit loses Sentinel for this phase.;1
+Rukh, Thrawn's Assassin;Shielded (When you play this unit, give a Shield token to it.)When this unit deals combat damage to a non-leader unit while attacking: Defeat that unit.;5
+Hunting Nexu;While you control another [aggression] unit, this unit gains Raid 2. (It gets +2/+0 while attacking.);4
+Echo, Restored;Restore 2When Played: You may discard a card from your hand. Give 2 Experience tokens to a unit in play with the same name as the discarded card.;4
+Wild Rancor;OverwhelmWhen Played: Deal 2 damage to each other ground unit.;6
+Chopper Base;Sem descrição;
+Survivors' Gauntlet;When Played/On Attack: You may attach an upgrade on a unit to another eligible unit controlled by the same player.;5
+Takedown;Defeat a unit with 5 or less remaining HP.;4
+Maximum Firepower;A friendly Imperial unit deals damage equal to its power to a unit.Then, another friendly Imperial unit deals damage equal to its power to the same unit.;4
+Guerilla Attack Pod;Grit (This unit gets +1/+0 for each damage on it.)When Played: If a base has 15 or more damage on it, ready this unit.;6
+Resourceful Pursuers;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.);5
+Han Solo, Worth the Risk;Action: Play a unit from your hand. It costs 1 less. Deal 2 damage to it. Hero Ability: Action [[tap]]: Play a unit from your hand. It costs 1 less. Deal 2 damage to it. Epic Action: If you control 5 or more resources, deploy this leader.;5
+Command Center;Sem descrição;
+Hylobon Enforcer;Grit (This unit gets +1/+0 for each damage on it.)Bounty - Draw a card. (When this unit is defeated or captured, your opponent collects its bounty.);1
+Mercenary Company;Ambush (After you play this unit, he may ready and attack an enemy unit.)Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.);6
+Consular Security Force;Sem descrição;4
+Cunning;Choose two, in any order:- Return a non-leader unit with 4 or less power to its owner's hand.- Give a unit +4/+0 for this phase.- Exhaust up to 2 units.- An opponent discards a random card from their hand.;4
+The Force Is With Me;Choose a friendly unit and give 2 Experience tokens to it. If you control a Force unit, also give a Shield token to the chosen unit.You may attack with the chosen unit.;4
+Open Fire;Deal 4 damage to a unit.;3
+Krrsantan, Muscle for Hire;When Played: If an enemy unit has a Bounty, you may ready this unit.On Attack: Choose a ground unit. You may deal 1 damage to it for each damage on this unit.;5
+Frontline Shuttle;Action [defeat this unit]: Attack with a unit, even if it's exhausted. It can't attack bases for this attack.;2
+Gamorrean Guards;While you control another [cunning] unit, this unit gains Sentinel (Units in this arena can't attack your non-Sentinel units or your base).;4
+Seventh Fleet Defender;Shielded (When you play this unit, give a Shield token to it.);3
+Follower of The Way;While this unit is upgraded, it gets +1/+1.;2
+The Ghost, Spectre Home Base;Shielded (When you play this unit, give it a Shield token.)When Played/On Attack: You may give a Shield token to another Spectre unit.;6
+General Dodonna, Massassi Group Commander;Other friendly Rebel units get +1/+1.;4
+Spark of Hope;Choose a unit in your discard pile. If it was defeated this phase, put it into play as a resource.;2
+Bravado;If you've defeated an enemy unit this phase, this event costs 2 less to play.Ready a unit.;5
+Green Squadron A-Wing;Raid 2 (This unit gets +2/+0 while attacking.);2
+Gladiator Star Destroyer;When Played: Give a unit Sentinel for this phase. (Units in this arena can't attack your non-Sentinel units or your base.);6
+Evidence of the Crime;Take control of an upgrade that costs 3 or less and attach it to an eligible unit of your choice.;3
+Liberated Slaves;Sem descrição;3
+Modded Cohort;Ambush (After you play this unit, he may ready and attack an enemy unit.)Raid 2 (This unit gets +2/+0 while attacking.);4
+Doctor Pershing, Experimenting with Life;Action [[tap], deal 1 damage to a friendly unit]: Draw a card.;2
+Cad Bane, He who needs no introduction;Raid 2 (This unit gets +2/+0 while attacking.)When you play an Underworld card: You may choose an opponent. They choose a unit they control. Deal 2 damage to it. Use this ability only once each round. Hero Ability: When you play an Underworld card: You may exhaust this leader. If you do, an opponent chooses a unit they control. Deal 1 damage to it. Epic Action: If you control 6 or more resources, deploy this leader.;6
+Vigilant Pursuit Craft;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)Smuggle[7 [vigilance]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);5
+Echo Base;Sem descrição;
+Inferno Four, Unforgetting;When Played/When Defeated: Look at the top 2 cards of your deck. Put any number of them on the bottom of your deck and the rest on top in any order.;2
+Bombing Run;Choose an arena (ground or space). Deal 3 damage to each unit in that arena.;5
+Jabba The Hutt, Cunning Daimyo;Each Trick event you play costs 1 less.When Played: Search the top 8 cards of your deck for a Trick event, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.);4
+Kylo Ren, Killing the Past;While playing this unit, ignore his [villainy] aspect penalty if you control Rey.On Attack: Give a unit +2/+0 for this phase. If it's a non-[villainy] unit, also give an Experience token to it.;6
+Enfys Nest, Marauder;Ambush (After you play this unit, it may ready and attack an enemy unit.)When a friendly unit (including this one) is attacking using Ambush, the defender gets -3/-0.;6
+Vanquish;Defeat a non-leader unit.;5
+Rickety Quadjumper;On Attack: You may reveal the top card of your deck. If it's not a unit, give an Experience token to another unit. (Leave the revealed card on top of your deck.);2
+97th Legion, Keeping the Peace on Sullust;This unit gets +1/+1 for each resource you control.;7
+Greedo, Slow on the Draw;When Defeated: You may discard a card from your deck. If it's not a unit, deal 2 damage to a ground unit.;1
+Luke Skywalker, Jedi Knight;Restore 3When Played: Give an enemy unit -3/-3 for this phase. If a friendly unit was defeated this phase, give that enemy unit -6/-6 for this phase instead.;7
+Patrolling V-Wing;When Played: Draw a card.;2
+Ketsu Onyo, Old Friend;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)When this unit deals combat damage to a base: You may defeat an upgrade that costs 2 or less.;2
+Bendu, The One In The Middle;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)On Attack: The next non-[heroism], non-[villainy] card you play this phase costs 2 less.;6
+Rule with Respect;A friendly unit captures each enemy non-leader unit that attacked your base this phase.;4
+Galactic Ambition;Play a non-[heroism] unit from your hand for free. Deal damage to your base equal to its cost.;7
+Cloud City Wing Guard;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);3
+Mace Windu, Party Crasher;AmbushWhen this unit attacks and defeats a unit: Ready him.;7
+Adelphi Patrol Wing;When Played: You may attack with a unit. If you have the initiative, it gains +2/+0 for this attack.;5
+Strafing Gunship;This unit can attack units in the ground arena.While this unit is attacking a ground unit, the defender gets -2/-0.;4
+Regional Sympathizers;Restore 2 (When this unit attacks, heal 2 damage from your base.);4
+Tarkintown;Epic Action: Deal 3 damage to a damaged non-leader unit.;
+DJ, Blantant Thief;Smuggle [7 [cunning] [cunning]]When played using Smuggle: Take control of an enemy resource. When this unit leaves play, that resource's owner takes control of it.;3
+Pyke Sentinel;Sentinel (Units in this aren't can't attack your non-Sentinel units or your base.);2
+Sabine Wren, Explosives Artist;While there are at least 3 aspects among other friendly units, this unit can't be attacked (unless she gains Sentinel).On Attack: You may deal 1 damage to the defender or to a base.;2
+Doctor Aphra, Rapacious Archaeologist;While there are 5 or more different costs among cards in your discard pile, this unit gets +3/+0.When Deployed: Choose 3 cards in your discard pile with different names. If you do, return 1 of them at random to your hand. Hero Ability: When the regroup phase starts: Discard a card from your deck. Epic Action: If you control 5 or more resources, deploy this leader.;5
+Supercommando Squad;Shielded (When you play this unit, give a Shield token to it.)While this unit is upgraded, it gains Sentinel. (Units in this arena can't attack your non-Sentinel units or your base.);5
+Kintan Intimidator;On Attack: Exhaust the defender.;1
+Pre Vizsla, Power Hungry;When Played/On Attack: You may pay the cost of an upgrade attached to another non-Vehicle unit. If you do, take control of that upgrade and attach it to this unit, if able. If it can't attach to this unit, defeat it instead.;7
+Fennec Shand, Loyal Sharpshooter;Ambush (When you play this unit, it may ready and attack an enemy unit.)On Attack: Deal 1 damage to the defender (if it's a unit) for each different cost among cards in your discard pile.;7
+Darth Vader, Commanding the First Legion;AmbushWhen Played: Search the top 10 cards of your deck for any number of [villainy] units with combined cost 3 or less and play each of them for free.;7
+Admiral Piett, Captain of the Executor;Each friendly non-leader unit that costs 6 or more gains Ambush. (After you play that unit, it may ready and attack an enemy unit.);2
+Scout Bike Pursuer;Grit (This unit gets +1/+0 for each damage on it);2
+Embo, Stoic and Resolute;When this unit completes an attack: If the defender was defeated, heal up to 2 damage from a unit.;3
+Smoke and Cinders;Each player discards all but 2 cards (of their choice) from their hand.;5
+Fenn Rau, Protector of Concord Dawn;When Played: You may play an upgrade from your hand. It costs 2 less.When you play an upgrade on this unit: Give an enemy unit -2/-2 for this phase.;6
+4-L0M, Bounty Hunter for Hire;Ambush (After you play this unit, it may ready and attack an enemy unit.)Each friendly unit named Zuckuss gets +1/+1 and gains Ambush.;4
+Swoop Down;Attack with a space unit. It gains Saboteur and can attack ground units for this attack. If it attacks a ground unit, it gets +2/+0 and the defender gets -2/-0 for this attack.;1
+Enterprising Lackeys;When Defeated: You may defeat a friendly resource. If you do, put this unit into play as a resource.Smuggle [6 [command] [command]];4
+Redemption, Medical Frigate;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)When Played: Heal up to 8 total damage from any number of units and/or bases. Deal that much damage to this unit.;8
+Nite Owl Skirmisher;Smuggle [5, [aggression], [heroism]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);3
+Protector;Attached unit gains Sentinel. (Units in this arena can't attack your non-Sentinel units or your base.);1
+Heroic Sacrifice;Draw a card, then attack with a unit. For this attack, it gets +2/+0 and gains: "When this unit deals combat damage: Defeat it.";1
+Syndicate Lackeys;Ambush (After you play this unit, he may ready and attack an enemy unit.);5
+Jawa Scavenger;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.);1
+Bossk, Deadly Stalker;Ambush (After you play this unit, he may ready and attack an enemy unit.)When you play an event: You may deal 2 damage to a unit.;5
+Consortium StarViper;While you have the initiative, this unit gains Restore 2. (When this unit attacks, heal 2 damage from your base.);3
+Reinforcement Walker;When Played/On Attack: Look at the top card of your deck. Either draw that card of discard it and heal 3 damage from your base.;8
+The Marauder, Shuttling the Bad Batch;AmbushWhen Played: Choose a card in your discard pile. Put it into play as a resource if it shares a name with a unit you control.;5
+Jabba's Rancor, Pateesa;If you control Jabba the Hutt (as a leader or unit), this unit costs 1 less to play.When Played/On Attack: Deal 3 damage to another friendly ground unit and 3 damage to an enemy ground unit.;8
+Catacombs of Cadera;Sem descrição;
+R2-D2;When Played/On Attack: Look at the top card of your deck. You may put it on the bottom of your deck. (Otherwise, leave it on top of your deck.);1
+Snowspeeder;Ambush (After you play this unit, it may ready and attack an enemy unit.)On attack: Exhaust an enemy Vehicle ground unit.;5
+Battlefield Marine;Sem descrição;2
+Wilderness Fighter;Shielded (When you play this unit, give a Shield token to it.);3
+The Client, Dictated by Discretion;Shielded[Action [tap]]: Choose a unit. For this phase, it gains: "Bounty - Heal 5 damage from a base." (When that unit is defeated or captured, its opponent collects its bounty.);3
+Wanted;Attached unit gains: "Bounty - Ready 2 friendly resources." (When this unit is defeat or captured, its opponent collects its bounty.);0
+Bazine Netal, Spy for the First Order;When Played: Look at an opponent's hand. You may discard 1 of those cards. If you do, that player draws a card.Smuggle [4, [cunning], [villainy]];2
+Blizzard Assault AT-AT;When this unit attacks and defeats a unit: You may deal the excess damage from this attack to an enemy ground unit.;8
+Fighters For Freedom;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)When you play another [aggression] card: You may deal 1 damage to a base.;3
+HWK-290 Freighter;Sem descrição;3
+Cassian Andor, Rebellions are built on Hope;Smuggle [5 [aggression] [heroism]] (If this card is a resource, you may play him for his smuggle cost. Replace it with the top card of your deck.)When played using Smuggle: Ready this unit.;3
+Jetpack;Attach to a non-Vehicle unit.When Played: Give a Shield token to attached unit. At the start of the regroup phase, defeat that token.Smuggle [4 [cunning]];2
+Warzone Lieutenant;Sem descrição;1
+Fennec Shand, Honoring the Deal;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)Action: Play a unit that costs 4 or less from your hand (paying its cost). Give it Ambush for this phase. Hero Ability: Action [1, [tap]]: Play a unit that costs 4 or less from your hand (paying its cost). Give it Ambush for this phase. (After you play the unit, it may ready and attack an enemy unit.) Epic Action: If you control 5 or more resources, deploy this leader.;5
+Bounty Hunter Crew;Ambush (After you play this unit, he may ready and attack an enemy unit.)When Played: You may return an event from a discard pile to its owner's hand.;6
+Forced Surrender;Draw 2 cards. Each opponent whose base you’ve damaged this phase discards 2 cards from their hand.;6
+Public Enemy;Attached unit gains: "Bounty - Give a Shield token to a unit." (When this unit is defeated or captured, its opponent collects its bounty.);0
+Slaver's Freighter;When Played: You may ready another unit with power equal to or less than the number of upgrades on enemy units.;5
+Luke's Lightsaber;Attach to a non-vehicle unit. When played: If attached unit is Luke Skywalker, heal all damage from him and give a Shield token to him.;2
+Mining Guid TIE Fighter;On Attack: You may pay [R2]. If you do, draw a card.;1
+Smuggling Compartment;Attach to a Vehicle unit.Attached unit gains: "On Attack: Ready a resource.";1
+General Rieekan, Defensive Strategist;When Played/On Attack: Choose a friendly unit. If it has Sentinel, give an Experience token to it. Otherwise, it gains Sentinel for this phase.;6
+Koska Reeves, Loyal Nite Owl;On Attack: If this unit is upgraded, you may deal 2 damage to a ground unit.;4
+Relentless Pursuit;Choose a friendly unit. It captures an enemy non-leader unit that costs the same as or less than it. If the friendly unit is a Bounty Hunter, give a Shield token to it. (Put the captured card facedown under the friendly unit until it leaves play.);3
+Homestead Militia;While you control 6 or more resources, this unit gains Sentinel. (Units in this arena can't attack your non-Sentinel units or your base.);3
+Karabast;A friendly unit deals damage to an enemy unit equal to the amount of damage on the friendly unit plus 1.;2
+Ruthlessness;Attached unit gains: "When this unit attacks and defeats a unit: Deal 2 damage to the defending player's base.";1
+Academy Training;Sem descrição;2
+General Tagge, Concerned Commander;When Played: Give an Experience token to each of up to 3 Trooper units.;2
+Remnant Science Facility;Sem descrição;
+Vigilance;Choose two, in any order: Discard 6 cards from an opponent's deck.Heal 5 damage from a base.Defeat a unit with 3 or less remaining HP.Give a Shield token to a unit.;4
+Boba Fett's Armor;Attach to a non-Vehicle unit.If attached unit is Boba Fett and damage would be dealt to him, prevent 2 of that damage.;2
+Doctor Evazan, Wanted on Twelve Systems;Shielded (When you play this unit, give a Shield token to it.)Bounty - Ready up to 12 resources. (When this unit is defeated or captured, your opponent collects his bounty.);2
+Sugi, Hired Guardian;While an enemy unit is upgraded, this unit gains Sentinel.Smuggle [6 [vigilance]] (If this card is a resource, you may play her for her smuggle cost. Replace her with the top card of your deck.);4
+Kestro City;Sem descrição;
+Medal Ceremony;Give an Experience token to each of up to 3 Rebel units that attacked this phase.;0
+Strike True;A friendly unit deals damage equal to its power to an enemy unit.;3
+Alliance X-Wing;Sem descrição;2
+Mon Mothma, Voice of the Rebellion;When Played: Search the top 5 cards of your deck for a Rebel card, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.);2
+Wroshyr Tree Tender;Grit (This unit gets +1/+0 for each damage on it.);3
+Lom Pyke, Dealer in Truths;On Attack: You may give a Shield token to an enemy unit. If you do, give a Shield token to a friendly unit.;4
+Relentless;The first event played by each opponent each round loses all abilities.;9
+Red Three, Unstoppable;Raid 1Each other friendly [heroism] unit gains Raid 1.;3
+Snapshot Reflexes;When Played: You may attack with attached unit.;1
+Crafty Smuggler;Shielded (When you play this unit, give a Shield token to it.);2
+Privateer Scyk;While you control another [cunning] unit, this unit gains Shielded. (When you play this unit, give a Shield token to it.);2
+Lando Calrissian, With Impeccable Taste;Action: Play a card using Smuggle. It costs 2 less. Defeat a resource you own and control. Use this ability only once each round. Hero Ability: Action [[tap]]: Play a card using Smuggle. It costs 2 less. Defeat a resource you own and control. Epic Action: If you control 4 or more resources, deploy this leader.;4
+Fett's Firespray, Pursuing the Bounty;When Played: If you control Boba Fett or Jango Fett (as a leader or unit), ready this unit.Action [[cost2]]: Exhaust a non-unique unit.;6
+Wolffe, Suspicious Veteran;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)When Played/On Attack: Bases can't be healed for this phase.;2
+Zuckuss, Bounty Hunter for Hire;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)Each friendly unit named 4-L0M gets +1/+1 and gains Saboteur.;5
+Collections Starhopper;Smuggle [3, [command]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);2
+Partisan Insurgent;While you control another [aggression] unit, this unit gains Raid 2 (it gets +2/+0 while attacking.);2
+Evacuate;Return each non-leader unit to its owner's hand.;6
+Poe Dameron, Quick to Improvise;On Attack: Discard up to 3 cards from your hand. For each card discarded this way, choose a different option:- Deal 2 damage to a unit or base.- Defeat an upgrade.- An opponent discards a card from their hand.;5
+ISB Agent;When Played: You may reveal an event from your hand. If you do, deal 1 damage to a unit.;1
+Jedi Lightsaber;Attach to a non-Vehicle unit.If attached unit is a Force unit, it gains: "On Attack: Give the defender -2/-2 for this phase.";3
+Inspiring Mentor;Attach to a non-Vehicle unit.Attached unit gains: "On Attack/When Defeated: Give an Experience token to another friendly unit.";2
+Foundling;Attached unit gains the Mandalorian trait.;1
+Enticing Reward;Attached unit gains: "Bounty - Search the top 10 cards of your deck for 2 non-unit cards, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.) Then, if this unit isn't unique, discard a card from your hand.";1
+Jedha City;Epic Action: Give a non-leader unit -4/-0 for this phase.;
+Escort Skiff;While you control another [command] unit, this unit gains Ambush. (After you play this unit, it may ready and attack an enemy unit.);4
+Unrefusable Offer;Attach to a non-leader unit.Attached unit gains: "Bounty - Play this unit for free (under your control). It enters play ready. At the start of the regroup phase, defeat it.";2
+Synara San, Loyal to Kragan;GritWhile this unit is exhausted, she gains, "Bounty - Deal 5 damage to a base." (When this unit is defeated or captured, your opponent collects its bounty.);4
+For A Cause I Believe In;Reveal the top 4 cards of your deck. For each [heroism] card revealed this way, deal 1 damage to an enemy base. You may discard any of the revealed cards and put the rest on top of your deck in any order.;3
+2-1B Surgical Droid;On Attack: You may heal 2 damage from another unit.;1
+Don't Get Cocky;Choose a unit. One at a time, reveal cards from your deck until you choose to stop or have revealed 7 cards. If the combined cost of the revealed cards is 7 or less, deal that much damage to the chosen unit. Put the revealed cards on the bottom of your deck in a random order.;4
+Maz Kanata's Castle;Sem descrição;
+Hunter of the Haxion Brood;While an enemy unit has a Bounty, this unit gains Shielded. (When you play this unit, give a Shield token to it.);3
+Hardpoint Heavy Blaster;Attach to a Vehicle unit.Attached unit gains: "On Attack: If this unit isn't attacking a base, you may deal 2 damage to a unit in the defender's arena.";2
+Give In to Your Anger;Deal 1 damage to an enemy unit. Its controller's next action this phase must be an attack with that unit, if able. It must attack a unit, if able.;1
+Vanguard Ace;When Played: For each other card you played this phase, give an Experience token to this unit.;2
+Jabba the Hutt, His High Exaltedness;When Deployed: Another friendly unit captures an enemy non-leader unit.Action [[tap]]: Choose a unit. For this phase, it gains: "Bounty - The next unit you play this phase costs 2 less." Hero Ability: Action [[tap]]: Choose a unit. For this phase, it gains: "Bounty - The next unit you play this phase costs 1 less." Epic Action: If you control 7 or more resources, deploy this leader.;7
+Death Star Stormtrooper;Sem descrição;1
+Devastator, Inescapable;SentinelOverhelmWhen Played: You may deal damage to a unit equal to the number of resources you control.;10
+Chimaera, Flagship of the Seventh Fleet;Shielded (When you play this unit, give a Shield token to it.)On Attack: Name a card. An opponent reveals their hand and discards a card with that name from it.;8
+Niima Outpost Constables;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);4
+Outer Rim Headhunter;Raid 1On Attack: If you control a leader unit, you may exhaust a non-leader unit.;2
+The Mandalorian, Sworn to the Creed;When you play an upgrade: You may exhaust this leader. If you do, exhaust an enemy unit with 4 or less remaining HP. Hero Ability: When you play an upgrade: You may exhaust an enemy unit with 6 or less remaining HP. Epic Action: If you control 6 or more resources, deploy this leader.;6
+C-3PO;When Played/On Attack: Choose a number, then look at the top card of your deck. If its cost is the chosen number, you may reveal and draw it. (Otherwise, leave it on top of your deck.);2
+Frozen in Carbonite;Attach to a non-leader unit.Attached unit can't ready.When Played: Exhaust attached unit.;3
+Clan Saxon Gauntlet;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)When this unit is attacked: You may give an experience token to a unit (before damage is dealt).;6
+K-2SO;OverwhelmWhen Defeated: For each opponent, choose one: either deal 3 damage to that player's base, or that player discards a card from their hand.;4
+Wrecker, BOOM!;OverwhelmWhen Played: You may defeat a friendly resource. If you do, deal 5 damage to a ground unit.;6
+You're my only hope;Look at the top card of your deck. You may play it. It costs [5R] less. If your base has 5 or less remaining HP, you may play it for free instead.;3
+Xanadu Blood, Cad Bane's Reward;Raid 2When Played/On Attack: You may return another friendly non-leader Underworld unit to its owner's hand. If you do, exhaust an enemy unit or resource.;6
+Change of Heart;Take control of a non-leader unit. At the start of the regroup phase, its owner takes control of it.;6
+Privateer Crew;Smuggle [6 [command]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.)When played using Smuggle: Give 3 Experience tokens to this unit.;2
+Incinerator Trooper;While attacking, this unit deals combat damage before the defender. (If the defender is defeated, it deals no combat damage.);2
+Underworld Thug;Sem descrição;2
+Disarm;Give an enemy unit -4/-0 for this phase.;1
+Frontier AT-RT;While you control another Vehicle unit, this unit gains Ambush. (After you play this unit, it may ready and attack an enemy unit.);4
+Seasoned Shoretrooper;While you control 6 or more resources, this unit gets +2/+0.;2
+Top Target;Attached unit gains: "Bounty - Heal 4 damage from a unit or base. If this unit is unique, heal 6 damage instead." (When this unit defeated or captured, its opponent collects its bounty.);1
+Cobb Vanth, The Marshal;When Defeated: Search the top 10 cards of your deck for a unit that costs 2 or less and discard it. For this phase, you may play that card from your discard pile for free.;3
+Nevarro City;Sem descrição;
+Traitorous;When this upgrade becomes attached to a non-leader unit that costs 3 or less: Take control of that unit.When this upgrade becomes unattached from a unit: That unit's owner takes control of it.;5
+Ma Klounkee;Return a friendly non-leader Underworld unit to its owner's hand. If you do, deal 3 damage to a unit.;1
+Vambrace Grappleshot;Attach to a non-Vehicle unit.Attached unit gains: "On Attack: Exhaust the defender.";2
+Ezra Bridger, Resourceful Troublemaker;When this unit completes an attack: Look at the top card of your deck. You may play it, discard it, or leave it on top of your deck.;3
+Grogu, Irresistible;Action [tap]: Exhaust an enemy unit.;2
+The Chaos of War;Deal damage to each player's base equal to the number of cards in that player's hand.;3
+Principled Outlaw;On Attack: You may exhaust a ground unit.Smuggle [6 [cunning] [heroism]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);4
+Lurking TIE Phantom;Raid 2 (This unit gets +2/+0 while attacking.)This unit can't be captured, damaged or defeated by enemy card abilities.;3
+Saw Gerrera, Extremist;As an additional cost for each opponent to play an event, they must deal 2 damage to their base.;4
+Distant Patroller;When Defeated: You may give a Shield token to a [vigilance] unit.;2
+Headhunting;Attack with up to 3 units (one at a time). They can't attack bases for these attacks. Each Bounty Hunter that attacks this way gets +2/+0 for its attack.;2
+Spare the Target;Return an enemy non-leader unit to its owner's hand. Collect that unit's Bounties.;3
+Heroic Resolve;Attached unit gains: "Action [2, defeat a Heroic Resolve on this unit]: Attach with this unit. It gets +4/+0 and gains Overwhelm for this attack.";1
+The Emperor's Legion;Return each unit in your discard pile that was defeated this phase to your hand.;2
+Death Watch Hideout;Sem descrição;
+No Good to Me Dead;Exhaust a unit. That unit can't ready this round (including during the regroup phase).;2
+Mandalorian Armor;Attach to a non-Vehicle unit.When Played: If attached unit is a Mandalorian, give a Shield token to it.;2
+Volunteer Soldier;Raid 1 (This unit gets +1/+0 while attacking.)If you control a Trooper unit, this unit costs [cost1] less to play.;3
+Correlian Freighter;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);5
+Dryden Vos, Offering No Escape;ShieldedWhen Played: Choose a captured card guarded by a unit you control. You may play it for free under your control.;7
+Zeb Orrelios, Headstrong Warrior;When this unit completes an attack: If the defender was defeated, you may deal 4 damage to a ground unit.;5
+Emperor's Royal Guard;While you control an Official unit, this unit gains Sentinel.While you control Emperor Palpatine (as a leader of unit), this unit gets +0/+1.;3
+Shoot First;Attack with a unit. It gets +1/+0 for this attack and deals its combat damage before the defender. (If the defender is defeated, it deals no combat damage.);1
+Rebel Pathfinder;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.);2
+Gideon's Light Cruiser, Dark Troopers' Station;Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)When Played: If you control Moff Gideon (as a leader or unit), play a [villainy] unit that costs 3 or less from your hand or discard pile for free.;8
+First Light, Headquarters of the Crimson Dawn;GritEach other friendly non-leader unit gains Grit.Smuggle [7, [vigilance], [villainy], deal 4 damage to a friendly unit];7
+Recruit;Search the top 5 cards of your deck for a unit, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.);1
+Look the Other Way;Exhaust a unit unless the controller pays 2.;0
+Black Sun Starfighter;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.);3
+Outlaw Corona;Bounty - Put the top card of your deck into play as a resource. (When this unit is defeated or captured, your opponent collects the bounty.);3
+Guardian of the Whills;The first upgrade you play on this unit each round costs 1 less.;2
+Scanning Officer;When Played: Reveal 3 enemy resources. Defeat each resource with the Smuggle keyword revealed this way. For each resource defeated this way, its controller puts the top card of their deck into play as a resource.;2
+Rallying Cry;Each friendly unit gains Raid 2 this phase. (They get +2/+0 while attacking.);3
+Covert Strength;Heal 2 damage from a unit and give an Experience token to it.Smuggle [1, [vigilance]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);1
+L3-37, Droid Revolutionary;When Played: You may rescue a captured card. If you don't, give a Shield token to this unit.Smuggle [4, [cunning], [heroism]] (If this card is a resource, you may play her for her smuggle cost. Replace her with the top card of your deck.);2
+Reckless Gunslinger;When Played: Deal 1 damage to each base.Smuggle [3, [aggression]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);1
+Remote Village;Sem descrição;
+Overwhelming Barrage;Give a friendly unit +2/+2 for this phase. Then, it deals damage equal to its power divided as you choose among any number of other units.;5
+Spice Mines;Sem descrição;
+Cripple Authority;Draw a card. Each opponent who controls more resources than you discards a card from their hand.;2
+A New Adventure;Return a non-leader unit that costs 6 or less to its owner’s hand. Then, its owner may play it for free.;2
+Confiscate;Defeat an upgrade.;1
+I Had No Choice;Choose up to 2 non-leader units. An opponent chooses 1 of those units. Return that unit to it's owners hand and put the other on the bottom of its owners deck.;7
+Triple Dark Raid;Search the top 7 cards of your deck for a Vehicle and play it. (Put the other cards on the bottom of your deck in a random order.) It costs 5 less and enters play ready. Return it to the owner's hand at the end of the phase.;3
+Asteroid Sanctuary;Exhaust an enemy unit.Give a Shield token to a friendly unit that costs 3 or less.;2
+Altering the Deal;Discard a captured card guarded by a friendly unit.;1
+Tactical Advantage;Give a unit +2/+2 for this phase.;1
+Reputable Hunter;If an enemy unit has a Bounty, this unit costs 1 less to play.;3
+Bo-Katan Kryze, Fighting for Mandalore;When Defeated: For each player with 15 or more damage on their base, draw a card.;2
+Toro Calican, Ambitious Upstart;When you play another Bounty Hunter unit: You may deal 1 damage to it. If you do, ready this unit. Use this ability only once each round.;3
+Regional Governer;When Played: Name a card. While this unit is in play, opponents can't play the named card.;2
+Supreme Leader Snoke, Shadow Ruler;Each enemy non-leader unit gets -2/-2.;8
+Omega, Part of the Squad;Ignore the aspect penalty on the first Clone unit you play each round.When Played: Search the top 5 cards of your deck for a Clone card, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.);2
+Unexpected Escape;Exhaust a unit. You may rescue a captured card guarded by that unit.;1
+Aggression;Choose two, in any order:- Draw a card- Defeat up to 2 upgrades.- Ready a unit with 3 or less power.- Deal 4 damage to a unit.;4
+Stolen Landspeeder;When Played: If you played this unit from your hand, an opponent takes control of it.Bounty - If you own this unit, play it from your discard pile for free and give an Experience token to it.;1
+Alliance Dispatcher;Action[[tap]]: Play a unit from your hand. It costs 1 less.;1
+Jabba's Palace;Sem descrição;
+Restock;Choose up to 4 cards in a discard pile. Put them on the bottom of their owner’s deck in a random order.;1
+Cartel Turncoat;Bounty - Draw a card. (When this unit is defeated or captured, your opponent collects its bounty.);1
+Sneak Attack;Play a unit from your hand. It costs 1 less and enters play ready. At the start of the regroup phase, defeat it.;2
+Chopper, Metal Menace;While you control another Spectre unit, this unit gains Raid 1.On Attack: Discard a card from the defending player's deck. If it's an event, exhaust a resource that player controls.;1
+Ahsoka Tano, Snips;Coordinate - This unit gets +2/+0. Hero Ability: Coordinate - Action [[tap]]: Attack with a unit. It gets +1/+0 for this attack. (Gain this ability while you control 3 or more units.) Epic Action: If you control 5 or more resources, deploy this leader.;5
+No Bargain;Each opponent discards a card from their hand. Draw a card.;3
+Greef Karga, Affadable Commissioner;When Played: Search the top 5 cards of your deck for an upgrade, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.);2
+Prepare for Takeoff;Search the top 8 cards of your deck for up to 2 VEHICLE units, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.);2
+Kihraxz Heavy Fighter;Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)On Attack: You may exhaust another friendly unit. If you do, this unit gets +3/+0 for this attack.;4
+Kragan Gorr, Warbird Captain;When an enemy unit attacks your base: Give a Shield token to a friendly unit in the same arena as the attacker.;6
+Fell the Dragon;Defeat a non-leader unit with 5 or more power.;4
+House Kast Soldier;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.);2
+Coruscant Dissident;On Attack: You may ready a resource.;3
+General Grievous, General of the Droid Armies;On Attack: You may give a Droid unit +1/+0 and Sentinel for this phase. Hero Ability: Action [[tap]]: Give a Droid unit Sentinel for this phase. (Units in its arena can't attack your non-sentinel units or your base.) Epic Action: If you control 6 or more resources, deploy this leader.;6
+Brutal Traditions;Action: If an enemy unit was defeated this phase, play this upgrade from your discard pile (paying its cost).;2
+332nd Stalwart;Coordinate - This unit gets +1/+1 (Gain this ability while you control 3 or more units.);1
+Benthic "Two Tubes";On Attack: Another friendly [aggression] unit gains Raid 2 for this phase. (It gets +2/+0 while attacking.);1
+Bail Organa, Rebel Councilor;Action [tap]: Give an Experience token to another friendly unit.;1
+Experience;Sem descrição;0
+Anakin Skywalker, Maverick Mentor;Coordinate - On Attack: Draw a card. (Gain this ability while you control 3 or more units.);5
+Surprise Strike;Attack with a unit. It gets +3/+0 for this attack.;2
+Leia Organa, Defiant Princess;When Played: Either ready a resource or exhaust a unit.;2
+Discerning Veteran;When Played: This unit captures an enemy non-leader ground unit. (Put the captured card facedown under this unit until this unit leaves play.);5
+Grey Squadron Y-Wing;On Attack: An opponent chooses a unit or base they control. You may deal 2 damage to it.;2
+Salacious Crumb, Obnoxious Pet;When Played: Heal 1 damage from your base.Action [[tap], return this unit to his owner's hand]: Deal 1 damage to a ground unit.;1
+Resupply;Put this event into play as a resource.;3
+Battle Droid Escort;When Played/When Defeated: Create a Battle Droid token.;3
+Migs Mayfeld, Triggerman;When a player discards a card from their hand: You may deal 2 damage to a unit or base. Use this ability only once each round.;2
+Qi'ra, Playing her Part;When Played: Look at an opponent's hand, then name a card. While this unit is in play, each card with that name costs 3 more for your opponent to play.;4
+Rival's Fall;Defeat a unit.;6
+Calculated Lethality;Defeat a non-leader unit that costs 3 or less. For each upgrade that was on that unit, give an Experience token to a friendly unit.;4
+Captain Rex, Lead by Example;When Played: Create 2 Clone Trooper tokens.;6
+Shield;If damage would be dealt to attached unit, prevent that damage. If you do, defeat a Shield token on it.;0
+Cantina Braggart;Raid 2 (This unit gets +2/+0 while attacking.);1
+Lothal Insurgent;When Played: If you played another card this phase, each opponent draws a card then discards a random card from their hand.;2
+Outmaneuver;Choose an arena (ground or space). Exhaust each unit in that arena.;3
+Coruscant Guard;Coordinate - Ambush (Gain this keyword while you control 3 or more units, including this one. When you play this unit, it may ready and attack an enemy unit.);2
+Bounty Hunter's Quarry;Attached units gains: "Bounty - Search the top 5 cards of your deck, or 10 cards instead if this unit is unique, for a unit that costs 3 or less and play it for free." (Put the other cards on the bottom of your deck in a random order.);1
+Val, Loyal to the End;Bounty - Deal 3 damage to a unit.When Defeated: Give 2 Experience tokens to a friendly unit. (The active player chooses the order of Val's abilities.);2
+Protector of the Throne;While this unit is upgraded, it gains Sentinel. (Units in this arena can't attack your non-Sentinel units or your base.);3
+General's Guardian;When this unit is attacked: Create a Battle Droid token.;4
+Rhokai Gunship;When Defeated: Deal 1 damage to a unit or base.;2
+Zorii Bliss, Valiant Smuggler;On Attack: Draw a card. At the start of the regroup phase, discard a card from your hand.Smuggle [6, [cunning], [heroism]];5
+Outland TIE Vanguard;When Played: You may give an experience token to another unit that costs 3 or less.;2
+Hailfire Tank;Exploit 2 (While playing this card, defeat up to 2 units you control. This card costs 2 less for each unit defeated this way.);8
+Jedha Agitator;Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)On Attack: If you control a leader unit, deal 2 damage to a ground unit or a base.;2
+Clan Wren Rescuer;When Played: Give an Experience token to a unit.;2
+Gar Saxon, Viceroy of Mandalore;Each friendly upgraded unit gets +1/+0 and gains "When Defeated: You may return an upgrade that was attached to this unit to its owner's hand." Hero Ability: Each friendly upgraded unit gets +1/+0. Epic Action: If you control 6 or more resources, deploy this leader.;6
+Waylay;Return a non-leader unit to its owner's hand.;3
+Separatist Commando;While you control another Separatist unit, this unit gains Raid 2. (It gets +2/+0 while attacking.);2
+Hutt's Henchmen;Shielded (When you play this unit, give a Shield token to it.);4
+Tech, Source of Insight;Each friendly resource gains Smuggle. The gained Smuggle cost is that card's cost plus 2 and its aspect icons.Smuggle [4, [heroism]];3
+Battle Droid;Sem descrição;0
+Millennium Falcon, Lando's Pride;If you play this unit from your hand, it gains Ambush.Smuggle [ 6, [cunning] [heroism]] (If this card is a resource, you may play her for her smuggle cost. Replace her with the top card of your deck.);6
+Unlicensed Headhunter;SaboteurWhile this unit is exhausted, it gains: "Bounty - Heal 5 damage from your base." (When this unit is defeated or captured, your opponent collects its bounty.);2
+Remnant Reserves;Search the top 5 cards of your deck for up to 3 units, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.);4
+Kuil, I have spoken;Restore 1 (When this unit attacks, heal 1 damage from your base.)On Attack: Discard a card from your deck. If it shares an aspect with your base, return it to your hand.;2
+Legal Authority;Attach to a friendly unit.When Played: Attached unit captures an enemy non-leader unit with less power than it. (Put the captured card facedown under attached unit until attached unit leaves play.);2
+Qi'ra, I Alone Survived;Grit (This unit gets +1/+0 for each damage on it)When Deployed: Heal all damage from each unit. Then, deal damage to each unit equal to half its remaining HP, rounded down. Hero Ability: Action [ 1, [tap]]: Deal 2 damage to a friendly unit. Then, give a Shield token to it. Epic Action: If you control 5 or more resources, deploy this leader.;5
+Wookiee Warrior;Grit (This unit gets +1/+0 for each damage on it.)When Played: If you control another Wookiee unit, draw a card.;4
+Twin Pod Cloud Car;Restore 2 (When this unit attacks, heal 2 damage from your base.);3
+Let the Wookiee Win;An opponent chooses one:- You ready up to 6 resources.- You ready a friendly unit. If it's a Wookiee unit, attack with it. It gets +2/+0 for this attack.;2
+Phase-III Dark Trooper;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)When combat damage is dealt to this unit: Give an Experience token to this unit (if it survives the damage).;3
+Clan Challengers;Raid 3 (This unit gets +3/+0 while attacking.)While this unit is upgraded, it gains Overwhelm. (When attacking an enemy unit, deal excess damage to the opponent's base.);5
+Price on Your Head;Attached unit gains: "Bounty - Put the top card of your deck into play as a resource." (When this unit is defeated or captured, your opponent collects the bounty.);2
+Concord Dawn Interceptors;Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)This unit gets +2/+0 while defending.;3
+Tarfful, Kashyyyk Chieftain;Restore 2When a friendly Wookiee unit is dealt combat damage and isn't defeated: That unit deals that much damage to an enemy ground unit.;7
+Ruthless Assassin;Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)When Played: Deal 2 damage to a friendly unit.;2
+Warbird Stowaway;While you have the initiative, this unit get +2/+0.Smuggle [4, [command], [villainy]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);3
+IG-11, I cannot be captured;If this unit would be captured, defeat him and deal 3 damage to each enemy ground unit instead.On Attack: You may deal 3 damage to a damaged ground unit.;5
+Village Protectors;Sentinel (Units in this aren't can't attack your non-Sentinel units or your base.)Shielded (When you play this unit, give a Shield token to it.);3
+The Darksaber;Attach to a non-Vehicle unit.While playing this upgrade on a Mandalorian unit, ignore its aspect penalty.Attached unit gains, "On Attack: Give an Experience token to each other friendly Mandalorian unit.";4
+The Mandalorian's Rifle;Attach to a friendly non-Vehicle unit.When Played: If attached unit is The Mandalorian, he captures an exhausted enemy non-leader unit. (Put the captured card facedown under him until he leaves play.);3
+Bounty Posting;Search your deck for a Bounty upgrade, reveal it, and draw it. (Shuffle your deck.)You may play that upgrade (paying its cost).;1
+Crosshair, Following Orders;Action [2]: This unit gets +1/+0 for this phase.Action [[tap]]: This unit deals damage equal to his power to an enemy ground unit.;4
+Covetous Rivals;Grit (This unit gets +1/+0 for each damage on it.)When Played/On Attack: You may deal 2 damage to a unit with a Bounty.;6
+Razor Crest, Reliable Gunship;Restore 2 (When this unit attacks, heal 2 damage from your base.)When Played: You may return an upgrade form your discard pile to your hand.;4
+Outflank;Attack with 2 units (one at a time).;1
+Smuggler's Aid;Heal 3 damage from your base.Smuggle [ 3, [heroism]] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.);1
+Mystic Reflection;Give an enemy unit -2/-0 for this phase. If you control a Force unit, give the enemy unit -2/-2 for this phase instead.;1
+Imprisoned;Attach to a non-leader unit.Attached unit loses its current abilities and can't gain abilities.;2
+Enforced Loyalty;Defeat a friendly unit. If you do, draw 2 cards.;2
+Endless Legions;Reveal any number of resources you control. Play each unit revealed this way for free (one at a time).;14
+Gamorrean Retainer;While you control another [command] unit, this unit gains Sentinel. (Units in this arena can't attack your non-Sentinel units or your base.);2

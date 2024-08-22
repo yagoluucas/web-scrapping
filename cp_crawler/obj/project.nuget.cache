@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nM2vwd9n96M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\cp_crawler\\cp_crawler\\cp_crawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yago\\.nuget\\packages\\htmlagilitypack\\1.11.64\\htmlagilitypack.1.11.64.nupkg.sha512"
+  ],
+  "logs": []
+}
